@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=STM32_Input.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=STM32_Input.SchDoc|FileName=STM32_IO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=STM32_Input.SchDoc|FileName=STM32_Lvl-Shft_HUB75.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=STM32_Input.SchDoc|FileName=STM32_Lvl-Shft_MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=STM32_Input.SchDoc|FileName=STM32_min.SchDoc|SheetNumber=2
