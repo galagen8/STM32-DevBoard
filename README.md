@@ -8,7 +8,7 @@ This board has:
 - CR2032 3V Battery slot for power-independent applications (switch for choosing the supply - VIN/BAT);
 - ST-Link programming slot;
 - BOOT1/BOOT2 switches;
-- Separate switches for supplying 3.3V and 5V subcircuits;
+- Separate switches for supplying 3.3V and 5V sub-circuits;
 - Input voltage = 12VDC max.
 
 </br>
