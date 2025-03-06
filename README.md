@@ -9,7 +9,8 @@ This board has:
 - ST-Link programming slot;
 - BOOT1/BOOT2 switches;
 - Separate switches for supplying 3.3V and 5V sub-circuits;
-- Input voltage = 12VDC max.
+- Input voltage = 12VDC max;
+- ON/OFF Toggle switch.
 
 </br>
 </br>
