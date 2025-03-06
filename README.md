@@ -33,7 +33,6 @@ Assembled board:
 You can program this board using orginal ST-Link or cheap ST-Link V2 clone. </br>
 I adapted the programming socket for cheap ST-Link V2 clone (4-pin Dupont header):
 </br>
-</br>
 
 <p align="center">	
 <img src="https://github.com/user-attachments/assets/72423224-f90e-4e23-b368-7f83fefd008d" width="100">	
