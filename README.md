@@ -28,7 +28,6 @@ Assembled board:
 <img src="https://github.com/user-attachments/assets/c23e6f0f-43f9-4065-9673-1c09a3788498" width="600">	
 </p>
 </br>
-</br>
 
 You can program this board using orginal ST-Link or cheap ST-Link V2 clone. </br>
 I adapted the programming socket for cheap ST-Link V2 clone (4-pin Dupont header):
