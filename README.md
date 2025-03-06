@@ -10,7 +10,7 @@ This board has:
 - BOOT1/BOOT2 switches;
 - Separate switches for supplying 3.3V and 5V sub-circuits;
 - Input voltage = 12VDC max;
-- ON/OFF Toggle switch.
+- ON/OFF Board Toggle switch.
 
 </br>
 </br>
