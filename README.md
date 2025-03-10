@@ -1,6 +1,6 @@
 <h1> STM32-DevBoard </h1>
 
-**Please read UPDATES at the end of the page!!!**
+**!!! PLEASE READ UPDATES at the END of the page !!!**
 
 Created STM32F103C8T6 Development Board for my needs. </br>
 This board has: 
@@ -39,8 +39,10 @@ I adapted the programming socket for cheap ST-Link V2 clone (4-pin Dupont header
 <p align="center">	
 <img src="https://github.com/user-attachments/assets/72423224-f90e-4e23-b368-7f83fefd008d" width="100">	
 </p>
+</br>
 
-**UPDATES:** </br>
+**UPDATES:** </br> 
+</br>
 After testing this board I found Levels Shifter aren't work at all. </br>
 I've made the mistake in schematics - OE pin wasn't pulled to 3.3V. </br>
 So I added bridges to every IC and it starts to works normally:
