@@ -43,7 +43,7 @@ I adapted the programming socket for cheap ST-Link V2 clone (4-pin Dupont header
 
 **UPDATES:** </br> 
 </br>
-After testing this board I found Levels Shifter aren't work at all. </br>
+After testing this board I found that Level Shifters aren't work at all. </br>
 I've made the mistake in schematics - OE pin wasn't pulled to 3.3V. </br>
 So I added bridges to every IC and it starts to works normally:
 
