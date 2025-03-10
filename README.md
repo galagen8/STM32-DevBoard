@@ -1,5 +1,7 @@
 <h1> STM32-DevBoard </h1>
 
+**Please read UPDATES at the end of the page!!!**
+
 Created STM32F103C8T6 Development Board for my needs. </br>
 This board has: 
 - HUB75 socket with bi-directional level-shifter (3.3-5V);
@@ -37,3 +39,19 @@ I adapted the programming socket for cheap ST-Link V2 clone (4-pin Dupont header
 <p align="center">	
 <img src="https://github.com/user-attachments/assets/72423224-f90e-4e23-b368-7f83fefd008d" width="100">	
 </p>
+
+**UPDATES:** </br>
+After testing this board I found Levels Shifter aren't work at all. </br>
+I've made the mistake in schematics - OE pin wasn't pulled to 3.3V. </br>
+So I added bridges to every IC and it starts to works normally:
+
+<p align="center">	
+<img src="https://github.com/user-attachments/assets/c86bc300-1c7a-442f-8cd6-eedd97c046ab" width="400">	
+</p>
+
+Necessary joint is marked yellow:
+<p align="center">	
+<img src="https://github.com/user-attachments/assets/3f4ed5eb-e77c-4c08-a20b-006b7cb3ec3a" width="300">	
+</p>
+
+All files (Diagram and PCB) will be updated later.
